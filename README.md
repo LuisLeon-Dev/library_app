@@ -1,4 +1,4 @@
-# magic_colors_app
+# library_app
 
 A new Flutter project.
 
